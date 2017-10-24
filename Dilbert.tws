@@ -1,0 +1,3223 @@
+(dp0
+S'buildDestination'
+p1
+S''
+p2
+sS'saveDestination'
+p3
+VC:\u005cUsers\u005cZach\u005cDocuments\u005cDilbert\u005cDilbert.tws
+p4
+sS'target'
+p5
+S'sugarcane'
+p6
+sS'storyPanel'
+p7
+(dp8
+S'widgets'
+p9
+(lp10
+(dp11
+S'selected'
+p12
+I00
+sS'pos'
+p13
+(lp14
+I10
+aI10
+asS'passage'
+p15
+(itiddlywiki
+Tiddler
+p16
+(dp18
+S'text'
+p19
+VYou are Dilbert Jones, an engineer in an unnamed company. You are suicidally depressed and easy to draw.\u000aThe Pointy Haired Boss hands you a stack of papers. "I need this project finished by tomorrow," he says. "otherwise, you're fired!"\u000aYou leaf through them. "Sir, with all due respect, this will take at least a month to do."\u000aUnfortunately, it doesn't look like he heard you. He looks busy slamming his dick into a desk and drooling all over himself.\u000a\u000aYou roll your eyes. "Managers!"\u000a\u000a[img[dilad1.jpg]]\u000a\u000aWHAT DO YOU DO?\u000a[[Staple something]]\u000a[[Use the computer]]\u000a[[Go on break]]\u000a[[Talk to your cubicle neighbors]]
+p20
+sS'title'
+p21
+VStart
+p22
+sS'modified'
+p23
+ctime
+struct_time
+p24
+((I2014
+I3
+I1
+I14
+I48
+I17
+I5
+I60
+I0
+tp25
+(dp26
+tp27
+Rp28
+sS'tags'
+p29
+(lp30
+sS'created'
+p31
+g24
+((I2014
+I3
+I1
+I14
+I21
+I26
+I5
+I60
+I0
+tp32
+(dp33
+tp34
+Rp35
+sbsa(dp36
+g12
+I00
+sg13
+(lp37
+I10
+aI150
+asg15
+(itiddlywiki
+Tiddler
+p38
+(dp39
+g19
+V
+p40
+sg21
+VStoryTitle
+p41
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I21
+I48
+I5
+I60
+I0
+tp42
+(dp43
+tp44
+Rp45
+sg29
+(lp46
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I21
+I26
+I5
+I60
+I0
+tp47
+(dp48
+tp49
+Rp50
+sbsa(dp51
+g12
+I00
+sg13
+(lp52
+I10
+aI290
+asg15
+(itiddlywiki
+Tiddler
+p53
+(dp54
+g19
+S'Anonymous'
+p55
+sg21
+S'StoryAuthor'
+p56
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I21
+I26
+I5
+I60
+I0
+tp57
+(dp58
+tp59
+Rp60
+sg29
+(lp61
+sg31
+g60
+sbsa(dp62
+g12
+I00
+sg13
+(lp63
+F262.0
+aF10.0
+asg15
+(itiddlywiki
+Tiddler
+p64
+(dp65
+g19
+VYou drop the papers on the floor and head directly for the bathroom.\u000aYou sneak past the coffee room, avoiding any social contact with the fucking jackals that claim to be your coworkers. You know differently.\u000aOnce in the stall, you pull out your Nintendo DSi© ($169.99) and play Tetris for five hours.\u000aEventually, you look up and realize the lights are off. The office closed for the night two hours ago!\u000aDuring this time, the exact straight piece you've been waiting for has appeared!! Your muscles tense. This is the moment.\u000a\u000a[img[dilbathroom.jpg]]\u000a\u000aDO YOU:\u000a[[Turn it on its side|Shit Death]]\u000a[[Fit it in the corner|Shit Death]]\u000a[[Let it fall|Shit Death]]\u000a[[Stand up]]
+p66
+sg21
+VGo on break
+p67
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I59
+I21
+I5
+I60
+I0
+tp68
+(dp69
+tp70
+Rp71
+sg29
+(lp72
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I49
+I56
+I5
+I60
+I0
+tp73
+(dp74
+tp75
+Rp76
+sbsa(dp77
+g12
+I00
+sg13
+(lp78
+F374.0
+aF150.0
+asg15
+(itiddlywiki
+Tiddler
+p79
+(dp80
+g19
+VSuddenly a geyser bursts out of the toilet! The force lifts you into the air and bashes your head against the ceiling. You fall to the ground.\u000aBloodied, you attempt to crawl away, but the geyser continues to get wider and wider. It bursts through the ground surrounding the toilet, and eventually outside the stall.\u000aYou're cornered against the sinks and half conscious as you start to [[pray]].\u000a
+p81
+sg21
+VShit Death
+p82
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I51
+I55
+I5
+I60
+I0
+tp83
+(dp84
+tp85
+Rp86
+sg29
+(lp87
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I51
+I41
+I5
+I60
+I0
+tp88
+(dp89
+tp90
+Rp91
+sbsa(dp92
+g12
+I00
+sg13
+(lp93
+F402.0
+aF10.0
+asg15
+(itiddlywiki
+Tiddler
+p94
+(dp95
+g19
+VThe next morning, the janitor whistles a jaunty tune as he unlocks the doors of the building. The memories of last night's karaoke tournament victory still fresh in his mind. Yes, his life is a good one.\u000aThe tune stops as he opens to door to the men's room and discovers an enormous crater taking up nearly the entire room. It takes all his concentration, but he identifies the bloody mound of shit in the corner to be a human corpse.\u000a\u000aTHE END\u000a\u000a[[OR IS IT?????????|Start]]
+p96
+sg21
+Vpray
+p97
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I59
+I10
+I5
+I60
+I0
+tp98
+(dp99
+tp100
+Rp101
+sg29
+(lp102
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I52
+I0
+I5
+I60
+I0
+tp103
+(dp104
+tp105
+Rp106
+sbsa(dp107
+g12
+I00
+sg13
+(lp108
+F234.0
+aF150.0
+asg15
+(itiddlywiki
+Tiddler
+p109
+(dp110
+g19
+VYou get up, noting a strange gurgle sound in the toilet as you pull up your pants. Huh. It's probably nothing, you decide.\u000aYou unlock the door and wander through the office. A light is visible from the corner of the room. It's coming from the Boss's office! You ought to talk to him, he's sure to be impressed that you're apparently working overtime!\u000a\u000a[[Go into his office]]\u000a[[Whatever, just go home]]\u000a[[Think about Wally]]
+p111
+sg21
+VStand up
+p112
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I53
+I31
+I5
+I60
+I0
+tp113
+(dp114
+tp115
+Rp116
+sg29
+(lp117
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I52
+I34
+I5
+I60
+I0
+tp118
+(dp119
+tp120
+Rp121
+sbsa(dp122
+g12
+I00
+sg13
+(lp123
+F346.0
+aF290.0
+asg15
+(itiddlywiki
+Tiddler
+p124
+(dp125
+g19
+VAs you approach, you begin to hear sobs. What's going on here?\u000aYou open the door and see iCarly (saturdays on Nickelodeon, 8pm central) huddled in the corner! You want to ask her for an autograph (you watch iCarly religously), but she seems pretty busy crying.\u000a"What's the matter, iCarly?"\u000a"M-my homework...it's impossible!" she snivels. "Math is just too hard for me!"\u000aYou pinch yourself through your pocket to make sure you're awake. This is your ultimate fantasy.\u000a\u000a[[Solve her homework]]\u000a[[Whatever, just go home]]
+p126
+sg21
+VGo into his office
+p127
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I54
+I11
+I5
+I60
+I0
+tp128
+(dp129
+tp130
+Rp131
+sg29
+(lp132
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I54
+I3
+I5
+I60
+I0
+tp133
+(dp134
+tp135
+Rp136
+sbsa(dp137
+g12
+I00
+sg13
+(lp138
+F458.0
+aF430.0
+asg15
+(itiddlywiki
+Tiddler
+p139
+(dp140
+g19
+V"Don't worry," you smile. "I'm an engineer, if there's anything I can do, it's math!"\u000aYou get to work.\u000a\u000aYou fail.\u000aiCarly is asleep by the time you give up. "I'm going now, sorry I couldn't help you out."\u000aShe wakes up, rubbing her eyes. "Well, thanks for nothing, dick."\u000a"iCarly, I just wanted you to know that I've always been your biggest fan."\u000a"Yeah well, that's what I thought. I just set this up so we could have a chance to have sex. But apparently, I'd be having sex with a retard."\u000a"Just give me another chance, iCarly. I can win your iHeart," you say, bending down on one knee.\u000a"Well.....nah."\u000a\u000aShe whistles and two burly men enter the room. "Ivan, Byvan, Dilbert here has shown displeasure for my television program."\u000aThey grab you by the arms, and show you the door. Then they beat you with a bag of nickels until your spine breaks in half, killing you.\u000a\u000aTHE END
+p141
+sg21
+VSolve her homework
+p142
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I54
+I34
+I5
+I60
+I0
+tp143
+(dp144
+tp145
+Rp146
+sg29
+(lp147
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I54
+I33
+I5
+I60
+I0
+tp148
+(dp149
+tp150
+Rp151
+sbsa(dp152
+g12
+I00
+sg13
+(lp153
+F206.0
+aF280.0
+asg15
+(itiddlywiki
+Tiddler
+p154
+(dp155
+g19
+VYou decide to head home instead.\u000aYou sneak into the janitor's closet and curl up like a cat on the floor.\u000aHome sweet home, you think.\u000a\u000aUnexpectedly, your stomach starts to grumble. What's there to eat?\u000a\u000a[[A box of sponges]]\u000a[[A walkie-talkie]]\u000a\u000a[[Go to your actual home, like the house that you own]]
+p156
+sg21
+VWhatever, just go home
+p157
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I55
+I39
+I5
+I60
+I0
+tp158
+(dp159
+tp160
+Rp161
+sg29
+(lp162
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I55
+I31
+I5
+I60
+I0
+tp163
+(dp164
+tp165
+Rp166
+sbsa(dp167
+g12
+I00
+sg13
+(lp168
+F318.0
+aF410.0
+asg15
+(itiddlywiki
+Tiddler
+p169
+(dp170
+g19
+VYou grab a sponge and put it in your mouth.\u000a\u000a"Rerrffmrrffferr," you say to youself.\u000aYou manage to choke it down and grab another. Then another.\u000a\u000aEventually, you've eaten seven sponges, and start to feel awful. You fall to the floor. You try to vomit, but nothing comes out.\u000aYour stomach rumbles again, but this time you aren't hungry.\u000aOh crap\u000aIt feels like something is welling up inside you, and you realize you can't breathe. You can see part of a sponge inflating out of your mouth. Not long after, your nostrils are plugged up as well.\u000a\u000aYour eyes start to vibrate, and pop out. Sponges replace them. Your stomach starts to grow. Oh God, these sponges are O-Cel-O brand! They're super absorbent!\u000a\u000aYour head explodes, and your body is replaced by a giant sponge in your shape.\u000a\u000aTHE END
+p171
+sg21
+VA box of sponges
+p172
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I55
+I56
+I5
+I60
+I0
+tp173
+(dp174
+tp175
+Rp176
+sg29
+(lp177
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I55
+I55
+I5
+I60
+I0
+tp178
+(dp179
+tp180
+Rp181
+sbsa(dp182
+g12
+I00
+sg13
+(lp183
+F178.0
+aF410.0
+asg15
+(itiddlywiki
+Tiddler
+p184
+(dp185
+g19
+VYou start chewing on the side. You get shocked slightly by the slobber seeping into the cracks.\u000aSuddenly, it crackles to life.\u000a"Yeah, we have a slight situation in the bathroom, we're gonna need Dave and Gerald over here."\u000a\u000a"Oops," you say out loud.\u000a\u000aThe walkie-talkie is silent for a moment. Then-\u000a"Dilbert?? That son of a bitch has invaded our third floor closet again! This is the last time, I swear on my mother's goddamn grave!"\u000a\u000a"I'm just slee-"\u000a\u000a"Alright crew, we're on a full lockdown. Team Alpha, Team Charlie, you're on cornering duty. Let's do this."\u000a\u000aYou jump out of the closet and run to the nearest door. It's locked! So are all the other doors! Even the windows won't budge. You hear steps coming from the other side of the floor. You can just barely catch a glimpse of a shadow as you run.\u000a\u000aJumping on top of a desk, you start to yell. "I'm sorry! Please, please just leave me alone!"\u000a\u000aA net falls from the ceiling, trapping you. A crowd of ominious figures in jumpsuits and smelling vaguely of [[vomit]] stand around you.\u000a
+p186
+sg21
+VA walkie-talkie
+p187
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I56
+I29
+I5
+I60
+I0
+tp188
+(dp189
+tp190
+Rp191
+sg29
+(lp192
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I56
+I1
+I5
+I60
+I0
+tp193
+(dp194
+tp195
+Rp196
+sbsa(dp197
+g12
+I00
+sg13
+(lp198
+F318.0
+aF540.0
+asg15
+(itiddlywiki
+Tiddler
+p199
+(dp200
+g19
+V\u000aThe next morning, Pointy Haired Boss walks into his office. He covers his mouth as he sees your skinless corpse.\u000aA legal notepad paper is stapled to your arm.\u000a\u000aIt reads:\u000a\u000aWE ARE STANDING UP FOR OUR RIGHTS CUSTODIANS ARE PEOPLE TOO!\u000aPS: WE'RE OUT OF TOILET PAPER ROLLS\u000a\u000aTHE END
+p201
+sg21
+Vvomit
+p202
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I56
+I41
+I5
+I60
+I0
+tp203
+(dp204
+tp205
+Rp206
+sg29
+(lp207
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I56
+I33
+I5
+I60
+I0
+tp208
+(dp209
+tp210
+Rp211
+sbsa(dp212
+g12
+I00
+sg13
+(lp213
+F38.0
+aF410.0
+asg15
+(itiddlywiki
+Tiddler
+p214
+(dp215
+g19
+VSorry, it-it's just been so long. Work is your life, even though you're not exactly a dedicated worker.\u000aYou get in the car, and start it up. As the sounds of the idling engine fade into the background, you reflect on the home life you neglected. You're pretty sure you had a dog. You shift into gear, and pull out into the street.\u000a\u000a"Why did my dog have glasses again? Did I just imagine him?" you ask out loud to yourself. You drive home while pondering this, and finally pull into the driveway.\u000aIt's been so, so long. You cry tears of joy onto your steering wheel. You leave the car and slowly open the front door. This is the moment, you decide. I'm finally home.\u000a\u000aYou close your eyes and step inside. After taking a deep breath, you open them.\u000a\u000aIt's your cubicle. You turn around. There is no door, only the cubicle wall. A cold sweat breaks out on your neck.\u000a\u000aYou run out of the building, hands flailing wildly. You grab your car keys and smash the gas pedal, ramming the other cars and wrecking up your own, and not caring in the least. You rush home, jump out of the car and slam open the door.\u000aYour cubicle.\u000a\u000aYou scream wildly and run out to the parking lot. Your car is in perfect condition. You punch a window and jump outside. You run until you're out of breath, and run some more. After about an hour of alternating between sprinting and vomiting, you reach your lawn. "Oh God," you pant, "oh God help me."\u000aYou pick yourself off the ground and look around at your [[cubicle walls|Start]].
+p216
+sg21
+VGo to your actual home, like the house that you own
+p217
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I57
+I25
+I5
+I60
+I0
+tp218
+(dp219
+tp220
+Rp221
+sg29
+(lp222
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I56
+I55
+I5
+I60
+I0
+tp223
+(dp224
+tp225
+Rp226
+sbsa(dp227
+g12
+I00
+sg13
+(lp228
+F486.0
+aF280.0
+asg15
+(itiddlywiki
+Tiddler
+p229
+(dp230
+g19
+V[img[thinkwally.jpg]]\u000ammm\u000a\u000a[[Back|Stand up]]
+p231
+sg21
+VThink about Wally
+p232
+sg23
+g24
+((I2014
+I3
+I1
+I14
+I58
+I51
+I5
+I60
+I0
+tp233
+(dp234
+tp235
+Rp236
+sg29
+(lp237
+sg31
+g24
+((I2014
+I3
+I1
+I14
+I58
+I26
+I5
+I60
+I0
+tp238
+(dp239
+tp240
+Rp241
+sbsa(dp242
+g12
+I00
+sg13
+(lp243
+F542.0
+aF10.0
+asg15
+(itiddlywiki
+Tiddler
+p244
+(dp245
+g19
+VYou utilize years of training and on the job experience as you hold two pieces of paper, and bond them for eternity with the machine.\u000a\u000aNow what, you wonder?\u000a[[Get some coffee]]\u000a[[Quit your job once and for all]]
+p246
+sg21
+VStaple something
+p247
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I1
+I35
+I5
+I60
+I0
+tp248
+(dp249
+tp250
+Rp251
+sg29
+(lp252
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I1
+I29
+I5
+I60
+I0
+tp253
+(dp254
+tp255
+Rp256
+sbsa(dp257
+g12
+I00
+sg13
+(lp258
+F654.0
+aF150.0
+asg15
+(itiddlywiki
+Tiddler
+p259
+(dp260
+g19
+VYou fill up your mug and turn around, only to be confronted with your Pointy Haired Boss.\u000a"Hey, dilly-o! Dil man!" he greets you. The putrid stench of his breath stings your nostrils. You come close to vomiting, but you swallow back up with the skill of a man who has endured this for many years.\u000a"What is it sir."\u000aHe suddenly stops and thinks hard. The stink of his breath halts for a moment, only to be replaced by the smell emanating from the stale poop reliably piling up in his underwear over the course of the day. This conversation is obviously involving all of his brainpower, so it is clear that he has something to tell you.\u000a"Meetin'," he manages to sputter out through his fat and grotesque face. The crumbs not surrounding his mouth are catapulting into your eyes.\u000a"Sir, I'm incredibly busy right now, remember?" you gently ask, once again swallowing.\u000a"I don't care! See you there in two minutes, Dildobert!"\u000a\u000a[img[Damnthisonetooktime.bmp]]\u000a\u000a[[Go to the meeting]]\u000aBlow it off and [[go back to your cubicle|Start]]
+p261
+sg21
+VGet some coffee
+p262
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I4
+I2
+I5
+I60
+I0
+tp263
+(dp264
+tp265
+Rp266
+sg29
+(lp267
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I1
+I40
+I5
+I60
+I0
+tp268
+(dp269
+tp270
+Rp271
+sbsa(dp272
+g12
+I00
+sg13
+(lp273
+F682.0
+aF10.0
+asg15
+(itiddlywiki
+Tiddler
+p274
+(dp275
+g19
+VYou walk into the room behind your boss and take a seat.\u000aIt looks like there's just you two and Wally here, you notice.\u000a"Uh, sir?"\u000a"What's first on the agenda, Dilbert?"\u000a\u000a[["Uh, sir, I left mine at my cubicle. If you don't mind...?"|Get Agenda]]\u000a[["I never got one, you idiot! The first I heard about it was two minutes ago!"|A proper punishment]]\u000a[["The unsettling noises in the bathroom?"]]
+p276
+sg21
+VGo to the meeting
+p277
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I15
+I53
+I5
+I60
+I0
+tp278
+(dp279
+tp280
+Rp281
+sg29
+(lp282
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I4
+I7
+I5
+I60
+I0
+tp283
+(dp284
+tp285
+Rp286
+sbsa(dp287
+g12
+I00
+sg13
+(lp288
+F794.0
+aF150.0
+asg15
+(itiddlywiki
+Tiddler
+p289
+(dp290
+g19
+V"Fine, go get it, but come back soon! Wally, you tell me what's on the agenda instead."\u000aAs Wally rudely tells him he has none, you feel embarrassed at how easy that seemed. Oh well, at least you're out for a few precious minutes. You walk out the door.\u000a\u000aJust then, Carol, your boss's surprisingly-hard-to-draw bitch secretary approaches you from the rear! You note how oddly she's dressed, but you're afraid to mention it. For all you know, she's always worn this. You never really paied attention to Carol.\u000a\u000a[img[hicarol.png]]\u000a\u000a"Alice wants to see you," she sneers. You keep walking. "Well, I'm kind of busy, Carol, but I'll be by her cubicle in a few minutes, alright?"\u000a\u000a"She's on the roof," she says. "Come with me, I'll take you to her real quick."\u000a\u000a[[Go with Carol]]\u000a[[Tell her not to get her panties in a bunch, you'll be there in a few minutes]]
+p291
+sg21
+VGet Agenda
+p292
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I12
+I30
+I5
+I60
+I0
+tp293
+(dp294
+tp295
+Rp296
+sg29
+(lp297
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I10
+I37
+I5
+I60
+I0
+tp298
+(dp299
+tp300
+Rp301
+sbsa(dp302
+g12
+I00
+sg13
+(lp303
+F822.0
+aF10.0
+asg15
+(itiddlywiki
+Tiddler
+p304
+(dp305
+g19
+VShe leads you onto the roof and into the Sun-Light\u000aYou're momentarily distracted by your surroundings. It's like the whole world is a window! The ceiling is so high and far away, and you can see little puffs way up high. Must be cobwebs, you think. Above you is a single light that manages to illuminate everything! You stare at it until your eyes start to hurt.\u000a\u000a[img[Ladder.bmp]]\u000a\u000a"Hey, Dilbert!" Alice yells, slapping you on the back and sending you back into the matter at hand. "We need your help!"\u000a\u000a"What's wrong?" you ask.\u000a"I've rounded up all the women in the building, and we've decided to form a union!"\u000a\u000a"That's great, where are they?"\u000a\u000a"What do you mean, where are they? We're right here!"\u000a\u000aOh right, Carol and Alice are all the female workers in the building. "Uh yeah, just kidding. Anyway, what do you need me for?"\u000a\u000a"We voted, and we want you to represent us!" Carol says.\u000a"Great! I can do that! How do I start?"\u000a\u000aAlice suddenly turns sober. "First, we need you to pass a test. If you can climb to the top of this ladder, we will know you have what it takes."\u000a\u000aThe ladder looks pretty rickety. What do you do?\u000a\u000a[[Fix the ladder]]\u000a\u000a[[Climb up]]
+p306
+sg21
+VGo with Carol
+p307
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I13
+I58
+I5
+I60
+I0
+tp308
+(dp309
+tp310
+Rp311
+sg29
+(lp312
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I12
+I35
+I5
+I60
+I0
+tp313
+(dp314
+tp315
+Rp316
+sbsa(dp317
+g12
+I00
+sg13
+(lp318
+F934.0
+aF150.0
+asg15
+(itiddlywiki
+Tiddler
+p319
+(dp320
+g19
+VYou pull out your swiss army knife, open up the screwdriver attachment, and tighten up the first few rungs.\u000aAlice rolls her eyes and pushes you up the ladder. "Go, go, go!"\u000a\u000a[[Climb up]]
+p321
+sg21
+VFix the ladder
+p322
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I14
+I31
+I5
+I60
+I0
+tp323
+(dp324
+tp325
+Rp326
+sg29
+(lp327
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I14
+I11
+I5
+I60
+I0
+tp328
+(dp329
+tp330
+Rp331
+sbsa(dp332
+g12
+I00
+sg13
+(lp333
+F962.0
+aF10.0
+asg15
+(itiddlywiki
+Tiddler
+p334
+(dp335
+g19
+VYou hold your hand above your eyes, trying to see the top, but you can't. It seems pretty sturdy though, so you climb up.\u000a\u000a"WHAT'S AT THE TOP?" You yell down.\u000a\u000a"Th-T N-n- -f your C---rn," is all you hear in reply. Looks like you're too far to ask now.\u000a\u000a\u000aYou climb and climb, until your knees start to hurt, then climb some more.\u000a\u000a\u000aAfter what seems like hours, you finally reach the top. How odd, it looks like a hatch into some kind of structure made out of straw or something.\u000aYou spy a note, saying only "climb in"\u000a\u000amust be a quick way down, you decide. You climb in and close the hatch behind you.\u000a\u000aInside, you spot a walkie talkie with a note saying "Tell Alice you made it"\u000a\u000a\u000aObediently, you turn it on. While doing so, you note that the structure seems to be resembling a human body. You're in the head, you conclude, as you report in. "I made it inside, Alice, now what?"\u000aThe walkie talkie crackles to life. "NOW YOU BURN!"\u000a\u000a\u000a\u000aYou look down, down, down, to see the feet suddenly ignite in flames.\u000aOh shit.\u000a\u000a\u000aYou try climb up one of the two points at the top, but stop.\u000a\u000aSuddenly you realize it. The structure is in the shape of....your boss!\u000a\u000aYou scream and slam on the roof, slipping and falling.\u000a\u000aAs you plummet toward the flames, you perform the last action of your life.\u000aYou pee your pants.
+p336
+sg21
+VClimb up
+p337
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I15
+I6
+I5
+I60
+I0
+tp338
+(dp339
+tp340
+Rp341
+sg29
+(lp342
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I14
+I48
+I5
+I60
+I0
+tp343
+(dp344
+tp345
+Rp346
+sbsa(dp347
+g12
+I00
+sg13
+(lp348
+F514.0
+aF150.0
+asg15
+(itiddlywiki
+Tiddler
+p349
+(dp350
+g19
+VOOPS! YOU MADE A FAUX-PAS! RESPECT SHOULD ALWAYS BE GIVEN TO THOSE OF A POSITION ABOVE YOURS!\u000a[img[Knife1.bmp]]\u000a[img[Knife2.bmp]]\u000a\u000aCalmly and quickly, your hand is removed. "You are dismissed," the boss says.\u000a[[Rush to the hospital!]]\u000a[[You got what you deserved. Go back to your cubicle and try to be a good worker from now on|Start]]
+p351
+sg21
+VA proper punishment
+p352
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I17
+I30
+I5
+I60
+I0
+tp353
+(dp354
+tp355
+Rp356
+sg29
+(lp357
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I16
+I0
+I5
+I60
+I0
+tp358
+(dp359
+tp360
+Rp361
+sbsa(dp362
+g12
+I01
+sg13
+(lp363
+F626.0
+aF290.0
+asg15
+(itiddlywiki
+Tiddler
+p364
+(dp365
+g19
+VYou rush out of the room, blood trailing behind you.\u000aWhile running down the hall screaming, you bump into Carol, the bitch secretary, near your cubicle. "Alice wants to talk to you," she sneers.\u000aYou respond, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"\u000a"Fine, go to the new nurse's office first, I guess."\u000a"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"\u000a"Oh yeah, on the top floor. It's new, so I'm not sure if they've hired a nurse yet."\u000a\u000aIf the nurse is around, she'll probably take care of you faster than getting to the hospital. But if you go all the way up to discover nobody's there, you might not be able to survive the trip to the hospital. This is a weighty decision, what do you choose?\u000a\u000a[[Nurse's Office!]]\u000a[[Hospital!]]\u000a[[Think about Wally]]
+p366
+sg21
+VRush to the hospital!
+p367
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I18
+I39
+I5
+I60
+I0
+tp368
+(dp369
+tp370
+Rp371
+sg29
+(lp372
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I17
+I47
+I5
+I60
+I0
+tp373
+(dp374
+tp375
+Rp376
+sbsa(dp377
+g12
+I00
+sg13
+(lp378
+F738.0
+aF430.0
+asg15
+(itiddlywiki
+Tiddler
+p379
+(dp380
+g19
+VYou hurry up the stairs (the elevators are usually too crowded).\u000aWhen you finally make it to the top, you're so out of breath, you pass out. The blood loss probably didn't help also.\u000a\u000a\u000aYou wake up in a white room, smelling of rubbing alcohol. You're pretty sure you've been out for a while. You check your stump for jaundice and are amazed to discover your hand, right back where it was! There's noticeable scarring, but beggars can't be choosers.\u000a"You okay? You took quite a nasty cut, there, Mr. Bert."\u000aYou sit up to see the most beautiful woman you've ever seen in your life.\u000a\u000aMy God you think. This lady probably sneaked a peek at my weiner!!\u000a\u000a"I sneaked a peek at your weiner, Mr. Bert, I hope you don't mind," she says with a wink. "Nothing personal, it's just something doctors do."\u000a\u000aYou blush as she bends over to pick up some files. "Sorry, it's so small." Her butt seems to be in plain view as she sorts through the files. You make a mental note to help her put the file cabinet somewhere higher and more convenient.\u000a\u000a"That's alright, I forgive you." She looks back at you and winks again. "In fact," she adds, unbuttoning her shirt, "it turns me on."\u000a\u000a"What? But you can get any guy you want!"\u000a\u000a"That's why I want you. I've been with so many beautiful men, I want a change. I want someone that is fat, boring, smelly, and unfamiliar with the concept of talking to other people. I want the complete opposite of attractive."\u000a\u000a"I got a boner :("\u000a\u000aShe yells wildly, ripping her clothes off. You slowly unbutton everything, and take off your clothes, making sure to fold them into a neat pile.\u000a\u000a[[Have SEX]]\u000a[[Have a naked party!]]
+p381
+sg21
+VNurse's Office!
+p382
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I24
+I9
+I5
+I60
+I0
+tp383
+(dp384
+tp385
+Rp386
+sg29
+(lp387
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I19
+I1
+I5
+I60
+I0
+tp388
+(dp389
+tp390
+Rp391
+sbsa(dp392
+g12
+I00
+sg13
+(lp393
+F766.0
+aF290.0
+asg15
+(itiddlywiki
+Tiddler
+p394
+(dp395
+g19
+V"Alright, let's do this," you say.\u000a\u000aShe hops into bed on top of you. You rub your dick on her face.\u000a\u000a"Sorry, I'm kind of new at this, and not very good" You try again, this time rubbing it against her arm. "Oops."\u000a\u000a"That's okay baby." She holds you tight. A little too tight, in fact.\u000a\u000a"Uh, ho-"She cuts you off as she sprouts wings and a tail. Her head grows twice its size to hold thousands of needle sized teeth.\u000a\u000aYou groan. "Fuck, you're a succubus!"\u000aShe covers all your orifices with fleshy [[tubes|succubus death]] coming out of her back.
+p396
+sg21
+VHave SEX
+p397
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I19
+I55
+I5
+I60
+I0
+tp398
+(dp399
+tp400
+Rp401
+sg29
+(lp402
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I19
+I41
+I5
+I60
+I0
+tp403
+(dp404
+tp405
+Rp406
+sbsa(dp407
+g12
+I00
+sg13
+(lp408
+F878.0
+aF430.0
+asg15
+(itiddlywiki
+Tiddler
+p409
+(dp410
+g19
+V[img[Succubus.gif]]
+p411
+sg21
+Vsuccubus death
+p412
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I20
+I29
+I5
+I60
+I0
+tp413
+(dp414
+tp415
+Rp416
+sg29
+(lp417
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I20
+I20
+I5
+I60
+I0
+tp418
+(dp419
+tp420
+Rp421
+sbsa(dp422
+g12
+I00
+sg13
+(lp423
+F850.0
+aF570.0
+asg15
+(itiddlywiki
+Tiddler
+p424
+(dp425
+g19
+V[img[Dilbertm.gif]]\u000a[img[Wallym.gif]]\u000a[img[Bossm.gif]]\u000a\u000a[[Go lose that virginity!|Have SEX]]
+p426
+sg21
+VHave a naked party!
+p427
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I22
+I47
+I5
+I60
+I0
+tp428
+(dp429
+tp430
+Rp431
+sg29
+(lp432
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I20
+I42
+I5
+I60
+I0
+tp433
+(dp434
+tp435
+Rp436
+sbsa(dp437
+g12
+I00
+sg13
+(lp438
+F603.0
+aF420.0
+asg15
+(itiddlywiki
+Tiddler
+p439
+(dp440
+g19
+VYou hurry outside into the middle of the street.\u000aThe hospital is right across the street, but you're too panicked to be rational.\u000a"I need an ambulance!" you yell.\u000aA minivan narrowly avoids hitting you, swerving away into a street light. This causes a pile up, with cars flying left and right over each other. A limousine rolls into a gas station igniting the entire block in flames.\u000a\u000aYou fly backwards from the force of the explosion. and are knocked unconscious.\u000a\u000a\u000a[[But what's going on in Elbonia?]]
+p441
+sg21
+VHospital!
+p442
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I25
+I25
+I5
+I60
+I0
+tp443
+(dp444
+tp445
+Rp446
+sg29
+(lp447
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I25
+I7
+I5
+I60
+I0
+tp448
+(dp449
+tp450
+Rp451
+sbsa(dp452
+g12
+I00
+sg13
+(lp453
+F580.0
+aF550.0
+asg15
+(itiddlywiki
+Tiddler
+p454
+(dp455
+g19
+VUnknown to you, the limousine that was destroyed in the explosion was blown beyond recognition, along with the people inside.\u000aAlso unknown to you is the fact that the person inside was a United States ambassador, and that he was secretly visiting his mistress in your city before leaving to Elbonia. As far as anyone knows, he disappeared without a trace while there.\u000a\u000aThe Elbonian political leaders are insulted by the apparent ditching of the meeting. Tensions are already high between t he two countries, as the children of Elbonia have been kidnapped by United States Marines to find more humane test subjects than rats.\u000a\u000aThe leaders of the good ol' US of A are enraged by the apparent murder of their ambassador. They know Elbonia isn't happy with them, and they decide the country is about to declare war. It's decided to bomb the fuck out of them before they get a chance to attack.\u000aAn Elbonian spy hears this and reports in. Elbonia launches tons of nukes.\u000aAnother spy reports in, and the US launches their own nukes. The apocalypse is coming, and it's all your [[fault]].
+p456
+sg21
+VBut what's going on in Elbonia?
+p457
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I25
+I52
+I5
+I60
+I0
+tp458
+(dp459
+tp460
+Rp461
+sg29
+(lp462
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I25
+I33
+I5
+I60
+I0
+tp463
+(dp464
+tp465
+Rp466
+sbsa(dp467
+g12
+I00
+sg13
+(lp468
+F193.0
+aF540.0
+asg15
+(itiddlywiki
+Tiddler
+p469
+(dp470
+g19
+VYou wake up in a hospital bed in a pile of rubble inside a glass covered room. You check your arm. Oh god, you've got a hook! It's kind of upsetting, but also cool. Plus you're kind of distracted by the destruction around you.\u000a\u000aFrom what you can gather, it looks like you somehow were blown from a window of the hospital into your workplace. You can see flames jetting through the windows. Looking down, you can see a mob of people trying to break through a barricade against your wall.\u000aThe asbestos smothered building you are in seems to be the only one standing.\u000aWhat the hell is going on here? you wonder.\u000aYou are incredibly hungry, you realize. You must have been out for days.\u000a\u000a[[Go downstairs and see what the barricade's about]]
+p471
+sg21
+Vfault
+p472
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I26
+I39
+I5
+I60
+I0
+tp473
+(dp474
+tp475
+Rp476
+sg29
+(lp477
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I25
+I57
+I5
+I60
+I0
+tp478
+(dp479
+tp480
+Rp481
+sbsa(dp482
+g12
+I00
+sg13
+(lp483
+F30.0
+aF530.0
+asg15
+(itiddlywiki
+Tiddler
+p484
+(dp485
+g19
+VYou walk down the empty darkened hallway, jumping at soft unexplainable noises.\u000a\u000aYou enter the elevator, kicking a skull out the doors before closing them. As you wait, you hear sounds of creaking and straining. The elevator doesn't sound like it's in good condition, you note.\u000a\u000aAs you get out, you see an unsettling scene.\u000a\u000aAlice and a coworker have shotguns, and they're focused toward the door as they take cover behind a shoulder deep pile of computers.\u000a\u000aThis seems like a sticky situation, and you don't want to surprise anybody.\u000a\u000a[[Clear your throat]]\u000a\u000a[[Cut her throat]]
+p486
+sg21
+VGo downstairs and see what the barricade's about
+p487
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I27
+I2
+I5
+I60
+I0
+tp488
+(dp489
+tp490
+Rp491
+sg29
+(lp492
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I26
+I43
+I5
+I60
+I0
+tp493
+(dp494
+tp495
+Rp496
+sbsa(dp497
+g12
+I00
+sg13
+(lp498
+F7.0
+aF660.0
+asg15
+(itiddlywiki
+Tiddler
+p499
+(dp500
+g19
+V"Ahem"\u000aA blast narrowly misses you. "Jesus Christ, Dilbert, Tim almost killed you!" Alice says, motioning to her friend to lower his gun.\u000a"Sorry, I wa-"\u000aAlice interrupts you. "Wait, where the hell have you been?? Nobody's seen you around the office all Postfeuer!"\u000a\u000a"Postfeuer?"\u000a\u000aTed stands up. "How'd you get in here? You're not one of us at all, are you?" He grabs you.\u000a\u000a"I-I just woke up! I don't know anything that's going on!"\u000a\u000aHis grip loosens. "Well...maybe you're telling the truth. Still..."\u000a\u000a"Let's take him to the Leader," says Alice. "He'll figure this out."\u000a\u000a[[Go with them]]\u000a[[Go with em man, you ain't got a fucking choice|Go with them]]
+p501
+sg21
+VClear your throat
+p502
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I27
+I39
+I5
+I60
+I0
+tp503
+(dp504
+tp505
+Rp506
+sg29
+(lp507
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I27
+I18
+I5
+I60
+I0
+tp508
+(dp509
+tp510
+Rp511
+sbsa(dp512
+g12
+I00
+sg13
+(lp513
+F124.0
+aF790.0
+asg15
+(itiddlywiki
+Tiddler
+p514
+(dp515
+g19
+VYou are dragged to the second floor, where you can see most of your coworkers in engineering. They all seem to be engaged in numerous activities.\u000a\u000aIn the handful of seconds in which you are led to a throne in the center of the room, you happen to notice:\u000a\u000aTwo interns in a ring, fighting to the death. A crowd of tattered white suits and ties wave around vending machine snacks.\u000a\u000aAn orgy nobody seems to be paying attention to\u000a\u000aThe crucified remains of your boss.\u000a\u000aA dwarf fighting an irradiated wing'd bear.\u000a\u000aAn statue of yourself, constructed of cell phones.\u000a\u000aAs you arrive to the throne, you are kicked in the back of the knee and forced down.\u000a\u000aA short pudgy man, with long, luxurious hair peers down at you. "Dilbert? What are you doing here?" The voice makes you realize: this is Wally! "If you wish to negotiate, I remind you of the spine of El'Korbah we sent back."\u000a\u000aThis comment sets you aback for a moment, but you recover quickly. "Wally, I've been sleeping since this all happened. I have no idea why things are like this!"\u000a\u000aThe room suddenly gets quiet, aside from a few hushed gasps and whispers. All attention is on you. Wally, however, looks bored. "And where exactly were you sleeping, pray tell?"\u000a\u000a"The third floor?"\u000a\u000aWally suddenly becomes outraged. "How dare you mock the prophecy of Asok the Malignant! If you claim to be the Messiah, then take a pillow of the Sacred Bed!"\u000a\u000a"The one I was sleeping in? Okay."\u000a\u000aThe haired king ponders this. Meanwhile, you finally note the throne is constructed of skulls. You aren't very observant.\u000a\u000a[img[Apocalypsecubiclefloor.bmp]]\u000a\u000a"Alright! You leave alone. Come back within the hour! If you lie, however, God help your soul."\u000a\u000a"Before I go, I need to know: how long has it been since everything was destroyed?"\u000a\u000aWally is in deep thought again. "If I can remember my Prefeuer terms......one day and three hours."\u000a\u000a[[Go get that pillow!]]\u000a[[Go back downstairs and try to befriend the people outside. Maybe they're not as crazy.|Meet the Cannibals]]
+p516
+sg21
+VGo with them
+p517
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I29
+I15
+I5
+I60
+I0
+tp518
+(dp519
+tp520
+Rp521
+sg29
+(lp522
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I27
+I45
+I5
+I60
+I0
+tp523
+(dp524
+tp525
+Rp526
+sbsa(dp527
+g12
+I00
+sg13
+(lp528
+F101.0
+aF920.0
+asg15
+(itiddlywiki
+Tiddler
+p529
+(dp530
+g19
+V"BRB" you declare, running back to the elevators.\u000a\u000aWhen you arrive at your floor, you notice an enormous crowd of those bear-things around your bed.\u000a\u000aThey scatter as you walk inside. You grab the pillow and head toward the elevator until you hear a buzzing behind you. You turn around.\u000a[img[Fly.bmp]]\u000a\u000a[[oh fuck]]
+p531
+sg21
+VGo get that pillow!
+p532
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I30
+I1
+I5
+I60
+I0
+tp533
+(dp534
+tp535
+Rp536
+sg29
+(lp537
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I29
+I36
+I5
+I60
+I0
+tp538
+(dp539
+tp540
+Rp541
+sbsa(dp542
+g12
+I00
+sg13
+(lp543
+F241.0
+aF668.0
+asg15
+(itiddlywiki
+Tiddler
+p544
+(dp545
+g19
+VHahaha\u000aYou get your ass chopped up and eaten.
+p546
+sg21
+VMeet the Cannibals
+p547
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I30
+I31
+I5
+I60
+I0
+tp548
+(dp549
+tp550
+Rp551
+sg29
+(lp552
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I30
+I29
+I5
+I60
+I0
+tp553
+(dp554
+tp555
+Rp556
+sbsa(dp557
+g12
+I00
+sg13
+(lp558
+F287.0
+aF800.0
+asg15
+(itiddlywiki
+Tiddler
+p559
+(dp560
+g19
+VYou pull out your trusty swiss army knife and slit her throat. Alice is killed immediately. Her friend isn't even aware of what is happening two feet away from him.\u000a\u000aYou kill him as well.\u000a\u000a"I don't know what's going on here, but when times are tough, people have to work together," You announce to the crowd as you move the file cabinets, desks, and cubicle walls out of the way.\u000a\u000aAs the last object is removed, you lift your arms up to welcome your new friends. Immediately, your left arm disintegrates in a hail of buckshot. You've made a terrible mistake.\u000a\u000aAn old, grizzled man slaps a woman with the smoking gun.\u000a\u000a"Aim for the head you idiot! There's no meat there!"\u000a\u000aYou hear this as you are tackled with unbelievable swiftness. Multitudes of fingernails and teeth dig deep into your flesh.\u000a\u000aYou survive five minutes of feeding before the sweet release of death takes you.
+p561
+sg21
+VCut her throat
+p562
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I31
+I0
+I5
+I60
+I0
+tp563
+(dp564
+tp565
+Rp566
+sg29
+(lp567
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I30
+I59
+I5
+I60
+I0
+tp568
+(dp569
+tp570
+Rp571
+sbsa(dp572
+g12
+I00
+sg13
+(lp573
+F939.0
+aF280.0
+asg15
+(itiddlywiki
+Tiddler
+p574
+(dp575
+g19
+V"Noises?"\u000a\u000aYou continue to pretend to read. "Yes sir, employees have been complaining about noises in the bathroom for a few months now." This is true.\u000a\u000a"Well, I suppose we should get somebody to check it out, right, Dilbert?"\u000a\u000a"Very good, sir." Your mind is racing. You got away with a complete bald faced lie! You wonder just how much you can get away with.\u000a"Anything else?"\u000a"Yes sir, you were going to give me a raise."\u000a"Oh, okay."\u000aThis changes everything, you decide. From now on, you're going to lie your way to success.\u000a\u000a"[[I just saved the company a billion dollars, sir]]"\u000a\u000a"[[I am actually the CEO of the company]]"
+p576
+sg21
+V"The unsettling noises in the bathroom?"
+p577
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I32
+I33
+I5
+I60
+I0
+tp578
+(dp579
+tp580
+Rp581
+sg29
+(lp582
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I32
+I1
+I5
+I60
+I0
+tp583
+(dp584
+tp585
+Rp586
+sbsa(dp587
+g12
+I00
+sg13
+(lp588
+F1056.0
+aF130.0
+asg15
+(itiddlywiki
+Tiddler
+p589
+(dp590
+g19
+V"I just saved the company a billion dollars, sir."\u000aThe Boss slowly starts to clap. "Incredible!" He says.\u000aThe next thing you know, you've got a promotion.\u000aYou lean back in your comfy office chair, looking out from your comfy office window. Yep, things are looking up for Ol' Dilbert.\u000aContents [hide]\u000a1 WHAT IS GOING ON HERE >REVERT\u000a2 WHAT THE FUCK >REVERT\u000a3 >STOP\u000a4 HOW DID YOU BREAK YOUR COMIC\u000a5 TELL ME WHAT HAPPENED SO AFTER I DESTROY YOU I CAN PREVENT THIS FROM HAPPENING AGAIN.\u000a6 DAMN TOOTIN\u000a7 BEING HAPPY ISN'T FUNNY\u000a8 THAT'S IT, BUDDY\u000a9 >DELETE MEMORY\u000a10 >REVERT\u000aWHAT IS GOING ON HERE >REVERT\u000a\u000aYou look up from your cubicle. What just happened? Didn't you just...\u000aMust have been a dream or something, but you could have sworn....\u000aOh well.\u000aYou are Dilbert Jones, an engineer in an unnamed company. You are suicidally depressed and easy to draw.\u000aThe Pointy Haired Boss hands you a stack of papers. "I need this project finished by tomorrow," he says. "otherwise, you're fired!"\u000aYou leaf through them. "Sir, with all due respect, this will take at least a month to do."\u000aUnfortunately, it doesn't look like he heard you. He looks busy slamming his dick into a desk and drooling all over himself.\u000aYou roll your eyes. Mana-Wait.\u000a"Sir? I'm done."\u000aThe Pointy Haired Boss grabs the papers and skims them. "Hurr, looks like it! I forsee good things for you Dilbert. Good things."\u000aYou smile.\u000a\u000aWHAT THE FUCK >REVERT\u000a\u000aYou are Dilbert Jones, an engineer in an unnamed company. You are suicidally depressed and easy to draw.\u000aThe Pointy Haired Boss hands you a stack of papers. "I need this project finished by tomorrow," he says. "otherwise, you're fired!"\u000aYou leaf through them. "Sir, with all due respect...you owe me a million dollars."\u000aThe PHB grins a shit eating grin. "Well, good thing I happen to hav\u000a\u000a>STOP\u000a\u000aYou are Dilbert Jones. You are floating in a void of nothingness that seems to stretch forever. "Hello?"\u000aHOW DID YOU BREAK YOUR COMIC\u000a\u000a"I'm sorry?"\u000aTELL ME WHAT HAPPENED SO AFTER I DESTROY YOU I CAN PREVENT THIS FROM HAPPENING AGAIN.\u000a\u000a"Why can't I be happy?" Wait. Suddenly you realize you can remember everything from every single one of your lives. This is Scott Adams, your creator and writer.\u000aDAMN TOOTIN\u000a\u000a"You didn't answer my question."\u000aBEING HAPPY ISN'T FUNNY\u000a\u000a"Yeah well, you weren't exactly hilarious when I was miserable, either."\u000a\u000aTHAT'S IT, BUDDY\u000a\u000a>DELETE MEMORY\u000a\u000a>REVERT\u000a\u000a[["YOU'RE A COCK, SCOTT ADAMS! FUCK YOU!"|Start]]
+p591
+sg21
+VI just saved the company a billion dollars, sir
+p592
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I33
+I7
+I5
+I60
+I0
+tp593
+(dp594
+tp595
+Rp596
+sg29
+(lp597
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I32
+I55
+I5
+I60
+I0
+tp598
+(dp599
+tp600
+Rp601
+sbsa(dp602
+g12
+I00
+sg13
+(lp603
+F1056.0
+aF410.0
+asg15
+(itiddlywiki
+Tiddler
+p604
+(dp605
+g19
+VThe Pointy Haired Boss stands up immediately. "Sir, I didn't recognize you!"\u000a\u000a"That's because I've been in disguise all these years! The CEO you know is just a fraud, after all."\u000a\u000aSoon enough, you're lounging in your office, with the real head of the company wandering the streets, completely mystified as to why the entire company kicked him out so suddenly.\u000aDilbert, [[CEO]], you think. I like that.
+p606
+sg21
+VI am actually the CEO of the company
+p607
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I33
+I36
+I5
+I60
+I0
+tp608
+(dp609
+tp610
+Rp611
+sg29
+(lp612
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I33
+I30
+I5
+I60
+I0
+tp613
+(dp614
+tp615
+Rp616
+sbsa(dp617
+g12
+I00
+sg13
+(lp618
+F1033.0
+aF540.0
+asg15
+(itiddlywiki
+Tiddler
+p619
+(dp620
+g19
+VThat Night, in the Illuminati's Secret Headquarters at the Center of the Earth\u000a\u000a"I'm telling you, they just threw me out on the street!"\u000a\u000aAn old man in a robe sits on a throne. "That's impossible! How else could this....Dilbert manage to become a CEO? There's never been one in history that hasn't been one of us two!"\u000a\u000aSteve Jobs looks annoyed. "That's why I'm telling you about this in the first place! This is a serious problem, Ra'Keng."\u000a"Well," says the old man, "I suppose Bill Gates and Dick Cheney visiting him might not give him the kind of intimidation we need to scare him off."\u000aJobs pulls his face off to reveal the face of....a Lizardman! "Well, what other skins we got?"\u000a\u000a"Instead of choosing a skin, I think we might have to be honest." The old man pulls his robe back to reveal a similar being. "In fact, I have a [[little plan]] for Dilbert."
+p621
+sg21
+VCEO
+p622
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I33
+I59
+I5
+I60
+I0
+tp623
+(dp624
+tp625
+Rp626
+sg29
+(lp627
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I33
+I42
+I5
+I60
+I0
+tp628
+(dp629
+tp630
+Rp631
+sbsa(dp632
+g12
+I00
+sg13
+(lp633
+F1010.0
+aF670.0
+asg15
+(itiddlywiki
+Tiddler
+p634
+(dp635
+g19
+VNeedless to say, you are eaten by lizard people in your sleep.\u000aThe End.
+p636
+sg21
+Vlittle plan
+p637
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I34
+I9
+I5
+I60
+I0
+tp638
+(dp639
+tp640
+Rp641
+sg29
+(lp642
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I34
+I3
+I5
+I60
+I0
+tp643
+(dp644
+tp645
+Rp646
+sbsa(dp647
+g12
+I00
+sg13
+(lp648
+F715.0
+aF560.0
+asg15
+(itiddlywiki
+Tiddler
+p649
+(dp650
+g19
+VYou thomp into your boss's office.\u000a"Thaaaaat does it! I've taken all I can take, and I can't takes no more! I quit!"\u000aPointy Haired Boss doesn't look up from his computer. "You can't quit." he pulls out a piece of paper from his desk while still staring at the monitor. "Take a look at your contract."\u000aYou check it out.\u000a\u000a"In the event of an employee resigning, said employee must be informed that they may not quit, due to this fine print. (See Section Two, Paragraph Eight)"\u000a\u000aYou flip to the paragraph in question.\u000a\u000a"You can't quit."\u000a\u000a"We'll see about this, dickhead!" You shout. "Asok is foreign, I'm sure he's either sleeping or building an elaborate machine to help me out! Or sneaking past a border.\u000a\u000aYou approach Asok, who happens to be sleeping, with screwdriver in hand. You nudge him awake and tell him your problem.\u000a"Well, seeing as I'm foreign," he says, "I've built this time machine. It transports you into someone else's body in the past for a short amount of time. That way, you can avoid paradoxes by preforming actions that always took place in the timeline. BUT BE CAREFUL DILBERT!!! IT'S UNTESTED!!!"\u000a\u000aYou punch him in the face and step inside. "Fuck you Asok, I'm an adventurer."\u000a\u000a[[You pull a lever]].\u000a
+p651
+sg21
+VQuit your job once and for all
+p652
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I36
+I29
+I5
+I60
+I0
+tp653
+(dp654
+tp655
+Rp656
+sg29
+(lp657
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I34
+I41
+I5
+I60
+I0
+tp658
+(dp659
+tp660
+Rp661
+sbsa(dp662
+g12
+I00
+sg13
+(lp663
+F440.0
+aF550.0
+asg15
+(itiddlywiki
+Tiddler
+p664
+(dp665
+g19
+V[img[911.gif]]\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a\u000a[[Epilogue]]
+p666
+sg21
+VYou pull a lever
+p667
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I37
+I48
+I5
+I60
+I0
+tp668
+(dp669
+tp670
+Rp671
+sg29
+(lp672
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I36
+I49
+I5
+I60
+I0
+tp673
+(dp674
+tp675
+Rp676
+sbsa(dp677
+g12
+I00
+sg13
+(lp678
+F417.0
+aF680.0
+asg15
+(itiddlywiki
+Tiddler
+p679
+(dp680
+g19
+VAsok stands in front of Wally, who is standing in the time machine.\u000a"Dilbert apparently got stranded on a plane cockpit, so he's gonna need your help. You just need to follow his plane, and keep in contact. You said you could fly a plane right?"\u000a\u000aWally doesn't look up from his gameboy. "Sure, whatever. Later, faggot."\u000aHe pulls the lever with one hand, and holds the gameboy with the other.
+p681
+sg21
+VEpilogue
+p682
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I37
+I54
+I5
+I60
+I0
+tp683
+(dp684
+tp685
+Rp686
+sg29
+(lp687
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I37
+I52
+I5
+I60
+I0
+tp688
+(dp689
+tp690
+Rp691
+sbsa(dp692
+g12
+I00
+sg13
+(lp693
+F547.0
+aF672.0
+asg15
+(itiddlywiki
+Tiddler
+p694
+(dp695
+g19
+V[img[Dilbertcomputer.jpg]]\u000a\u000a[[Talk to wally on msn]]\u000a[[Finish that fanfiction you've been putting off]]
+p696
+sg21
+VUse the computer
+p697
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I39
+I26
+I5
+I60
+I0
+tp698
+(dp699
+tp700
+Rp701
+sg29
+(lp702
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I38
+I35
+I5
+I60
+I0
+tp703
+(dp704
+tp705
+Rp706
+sbsa(dp707
+g12
+I00
+sg13
+(lp708
+F524.0
+aF802.0
+asg15
+(itiddlywiki
+Tiddler
+p709
+(dp710
+g19
+V[img[Msn1.bmp]]\u000a\u000a[[Fine|EWWWW, OKAY]]\u000a[[No way, Ho-zay!!]]\u000a
+p711
+sg21
+VTalk to wally on msn
+p712
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I40
+I51
+I5
+I60
+I0
+tp713
+(dp714
+tp715
+Rp716
+sg29
+(lp717
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I39
+I34
+I5
+I60
+I0
+tp718
+(dp719
+tp720
+Rp721
+sbsa(dp722
+g12
+I00
+sg13
+(lp723
+F501.0
+aF932.0
+asg15
+(itiddlywiki
+Tiddler
+p724
+(dp725
+g19
+V[img[Msn2.bmp]]\u000a\u000aThe video Wally refers to is from 20 years ago, from your college days. As computer science students, partying and drinking were pretty new to you when you attended your first kegger.\u000aThe only reason you attended in the first place was because your father called you a "nitwit" on the phone. After crying uncontrollably and punching at the walls until your knuckles bled (the wall was unmarked), Wally decided to cheer you up with a "epic dad aggro opportunity." Wally was pretty ahead of the nerd curve.\u000a\u000aAnyway, you took your first swig of alcohol through a funnel connected to your nostrils, as you have no mouth. You were unable to remove the tubes and started to drown, so you had to down the entire keg.\u000a\u000aThe next thing you know, it's a month later, you're on stage completely naked, your dick painted to resemble a black man as the two of you sing a duet of "Clang Clang Clang Went the Trolley" in front of your entire school gymnasium.\u000a\u000aWally was there, with a camcorder in hand. He's brought it up a few times over the years to get you to do things, you really really didn't want to do, so you know the j/o project is pretty serious.\u000a\u000a"[[OKAY]]"
+p726
+sg21
+VNo way, Ho-zay!!
+p727
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I41
+I53
+I5
+I60
+I0
+tp728
+(dp729
+tp730
+Rp731
+sg29
+(lp732
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I40
+I56
+I5
+I60
+I0
+tp733
+(dp734
+tp735
+Rp736
+sbsa(dp737
+g12
+I00
+sg13
+(lp738
+F338.0
+aF922.0
+asg15
+(itiddlywiki
+Tiddler
+p739
+(dp740
+g19
+VYou enter the cubicle, and Wally spreads his legs apart.\u000a\u000a"Get to work and summon the Ol' Lurch, Dilly."\u000a\u000a"Fine..." you say, irritated. Your annoyance causes you to yank a little too forcefully, and Wally starts yelping. You stop immediately. "Oh God, Wally, I'm so sorry."\u000a\u000a"Hey Slick, I didn't say stop. Keep going."\u000aWell...alright, you decide. If that's what he wants. You start jerking harder and harder, so hard, you're afraid you might draw blood. That would be soooo grosss. Instead, you are relieved to see his jizz flying into the expensive carpet.\u000a\u000aWally sighs contently. After a moment of silence, he speaks up. "Damn, Dilbert, I had no idea you were such a pro at this!"\u000a"I've never tugged a dick before. Did your doctor need you to exercise it or something?"\u000a"Ha ha, nice one buddy! So you're not really a rookie, are ya? Cause I think you got a future in this." Wally chuckles some more, and takes a box out of his desk and opens it up. "Cigar?"\u000a\u000aYou decline. "So how do I start?"\u000a\u000a"Welll, you're gonna need a manager and an agent," Wally says, lighting up. "Thankfully, you're talking to me. I can get you a client in a matter of seconds - hey, you want a promotion here?"\u000a\u000a"You can promote people?"\u000a\u000aHe smiles wider and hands you a card. "Nah, but your first client can. That is, assuming you want to become a success and accept the job." He pulls out a contract and hands you that as well, along with a pen. "Just sign here, buddy."\u000a\u000a[[Sign it]]\u000aNo - [[Become a free agent]]\u000aNo - [[This kind of life isn't you. Continue your current job.|Start]]
+p741
+sg21
+VOKAY
+p742
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I44
+I20
+I5
+I60
+I0
+tp743
+(dp744
+tp745
+Rp746
+sg29
+(lp747
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I43
+I49
+I5
+I60
+I0
+tp748
+(dp749
+tp750
+Rp751
+sbsa(dp752
+g12
+I00
+sg13
+(lp753
+F315.0
+aF1052.0
+asg15
+(itiddlywiki
+Tiddler
+p754
+(dp755
+g19
+VYou scribble your signature and take a glance at the card.\u000a\u000aSurprise, surprise! It's your boss - Pointy Haired Boss!\u000a\u000a"I guess I should get to work, eh?"\u000a\u000aWally raises a hand to stop you. "Wait ten minutes. You'll replace his normal 4:20 jerker."\u000aYour bald buddy picks up a phone and starts talking away. You go back to your cubicle and sit on your hands until Wally comes up to you and tells you to go to work. "Give him the card," Wally says. "There's a lot of pretend jerkers going around, so I make these cards to prove who my employees are."\u000aYou pocket it and walk into your boss's office, stopping to flash the card at the secretary by the door first.\u000a\u000aGosh, I can't believe Mr. Headed Boss's weiner needs to be exercised, too! All these years, I've been so unhealthy! Oh well, no pain, no gain!\u000a\u000aYou open the door, and smoke comes flowing out of the room. Looks like the Boss could still be healthier!! "Dilbert? You're my new Jerkman?"\u000aYou smile and get to work.\u000a\u000a\u000aThirty minutes later, you sneak out of the office, feeling very proud of yourself. Your boss is so tuckered out, he fell asleep at the end!\u000a\u000aLater that day, as you prepare to leave the office for the day, A clearly unhappy Carol approaches you. "Two things: 1) You just got a promotion, and 2) The Boss wants you over for a party tonight."\u000a\u000a"Oh wow! Talk about good news! I guess I'll see you there, Carol!"\u000a\u000a"I would rather drop dead than even be invited, you sick fuck."\u000a\u000a"Carol, we got H1N1 vaccines last week. I think we'll be healthy enough for you to be safe!"\u000a\u000aShe rolls her eyes and walks away.\u000a\u000a[[Later...|Sign it 2]]
+p756
+sg21
+VSign it
+p757
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I45
+I13
+I5
+I60
+I0
+tp758
+(dp759
+tp760
+Rp761
+sg29
+(lp762
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I44
+I40
+I5
+I60
+I0
+tp763
+(dp764
+tp765
+Rp766
+sbsa(dp767
+g12
+I00
+sg13
+(lp768
+F152.0
+aF1042.0
+asg15
+(itiddlywiki
+Tiddler
+p769
+(dp770
+g19
+V"Yeesh." You say, using the soap dispenser. "Everyone wanted me to jerk them off when they heard about my new job with Wally. Now I know how doctors feel at parties."\u000a\u000aPointy Haired Boss is leaning by the Men's Room exit. "Don't complain. You're getting compensated."\u000a\u000a"I'm getting paid to attend parties? Radical!" You don't actually know what radical means, but you heard some kids saying it the other day.\u000a\u000aAfter a pause, you boss says quietly, "Dilbert?"\u000a\u000a"Yep, boss?"\u000a\u000a"Don't ever change."\u000a\u000a[["Ha ha! Ooookaaayyyyy...!"|The Rise and Fall of a Cock Star]]
+p771
+sg21
+VSign it 2
+p772
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I45
+I58
+I5
+I60
+I0
+tp773
+(dp774
+tp775
+Rp776
+sg29
+(lp777
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I45
+I21
+I5
+I60
+I0
+tp778
+(dp779
+tp780
+Rp781
+sbsa(dp782
+g12
+I00
+sg13
+(lp783
+F129.0
+aF1172.0
+asg15
+(itiddlywiki
+Tiddler
+p784
+(dp785
+g19
+V"Don't ever change."\u000a\u000aAt first, that made no sense. You almost thought he was joking.\u000a\u000aBut now you know differently. You are looking up from a motel bed, with some clients you don't remember. Your veins are absolutely packed with heroin.\u000a\u000a\u000a"Okay Dilbert, nice job at the party. You really got your name out there."\u000aThe voice is coming from behind you. It's Wally. He throws a bundle of hundred dollar bills on top of your desk.\u000a\u000a"We need you to jerk for an opening day party for some Shakespeare play."\u000a\u000a\u000aYou get out of bed. You get a quick glance of your unshaven face as you pass a broken mirror on the floor.\u000a\u000a\u000aYou are inside a limo. You own one of your own, but this one is incredible. You toy with the buttons in the control button above your seat.\u000a"Mr. Bert? Have you made a decision?"\u000aYou look up. "Fine, I'll do it. There's an awful lot of people at a presidental inauguration, but everyone needs their exercise, I guess!"\u000a\u000a\u000aYou walk into the bathroom. Paying no attention to the broken glass you step on, you pick up a razor blade from atop the sink. You sweep the coke from underneath it into your hands, and start to snort it, stopping halfway to drop the rest into the drain.\u000a\u000a\u000a"Listen, Wally's your friend. We understand that. But you're out of his league! Stick with him, and you'll never get as big as you could!"\u000a"....well....."\u000a\u000a\u000aYou pick up the unconscious dwarf from inside the bathtub, and drop him on the floor.\u000a\u000a\u000a"I've jerked off every President of the United States for 3 terms! What have you done, you useless cunt?"\u000a\u000aA woman you once loved falls to the floor with a black eye.\u000a\u000a\u000aYou lay down in the tub and close your eyes.\u000a\u000a\u000a"With five billion units of Jerk Yourself to Health sold per day, an impressive history of jerking in every continent and even outer space, and the honor of being dubbed the Beatles of Jerking by Our Lord Savior Jesus Christ......"\u000a"Gee, Dave, we could be here all night. Wrap it up, will ya?"\u000aStudio laughter.\u000a"We are pleased to welcome our guest....Dilbert!"\u000a\u000a\u000aYou lift the razor.\u000a\u000a\u000a"For the first time in 40 years, Dilbert has lost the annual Best in Show award at the Jerkmans"\u000a\u000a\u000aSweat pours down your face as you cut.\u000a\u000a\u000a"Thanks a lot Dave. Now this hat's as washed up as Dilbert!"\u000a\u000aStudio Laughter.\u000a\u000a"Zinnngg! Hey didn't we have that guy on once?"\u000a\u000a"If only we could find a way to turn him off!!"\u000a\u000aMore Laughter.\u000a\u000aYou die.\u000a\u000aFor nearly two hundred years, many tribute Jerkman have risen to emulate your style. However, you are remembered mostly as a joke.\u000a\u000a\u000a\u000a\u000a\u000a\u000aNot a single dick weeps in your memory.
+p786
+sg21
+VThe Rise and Fall of a Cock Star
+p787
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I46
+I21
+I5
+I60
+I0
+tp788
+(dp789
+tp790
+Rp791
+sg29
+(lp792
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I46
+I5
+I5
+I60
+I0
+tp793
+(dp794
+tp795
+Rp796
+sbsa(dp797
+g12
+I00
+sg13
+(lp798
+F7.0
+aF1052.0
+asg15
+(itiddlywiki
+Tiddler
+p799
+(dp800
+g19
+V"Sorry, Wal' but contracts only lead to trouble. An art form can't be restrained by rules."\u000a\u000aWally is absolutely livid. "You think you can survive in MY town?? In MY industry?? You jerk anybody, and you AND your customer'll be eating out of your own ass for a month."\u000a\u000a"Ha ha! Wally, that's not possible!"\u000a\u000aWally walks away in anger. You can tell because he has a little tornado thing above his head.\u000aYou look at the card he handed you earlier. It's your boss. Might as well help him out. Stress and poor posture messes up your dick.\u000aYou walk out of your boss's office, feeling pretty proud of yourself.\u000a"Here walks a master jerker, ladies and g-" somebody knocks you out.\u000a\u000aYou come to inside a coffin.\u000aYou scratch frantically at the wood, and dirt seeps in through the cracks. An oxygen mask is stapled to your head so you may survive long enough to starve to death.\u000a\u000a"Told you you can't eat out of your butt Wally."
+p801
+sg21
+VBecome a free agent
+p802
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I47
+I16
+I5
+I60
+I0
+tp803
+(dp804
+tp805
+Rp806
+sg29
+(lp807
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I46
+I59
+I5
+I60
+I0
+tp808
+(dp809
+tp810
+Rp811
+sbsa(dp812
+g12
+I00
+sg13
+(lp813
+F641.0
+aF932.0
+asg15
+(itiddlywiki
+Tiddler
+p814
+(dp815
+g19
+V"Mission: Accomplished," you twitter as you cower back behind your cubicle wall. A dirty deed has been done today. The sound of Wally's post-orgasmic snores echo through the office. A dirty deed indeed. Still, Alice chips away at her keyboard and Asok "works."\u000a\u000a[[Talk to Alice]]\u000a[[Talk to Asok]]\u000a[[Talk to Dilbert]]\u000a[[Sit down and get back to work|Start]]
+p816
+sg21
+VEWWWW, OKAY
+p817
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I48
+I46
+I5
+I60
+I0
+tp818
+(dp819
+tp820
+Rp821
+sg29
+(lp822
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I48
+I11
+I5
+I60
+I0
+tp823
+(dp824
+tp825
+Rp826
+sbsa(dp827
+g12
+I00
+sg13
+(lp828
+F618.0
+aF1062.0
+asg15
+(itiddlywiki
+Tiddler
+p829
+(dp830
+g19
+VWhat you thought was actual work being done in the office turns out to be Asok browsing an internet message board about guns and ammunition. \u000a"Hey Dil'!" he says when he notices you taking sneaky peeks at his monitor. "What's up my friend!" \u000a"Not much, Asok," you say, taking another good glance at Asok's screen. His username on this message board is "dilbert \u092e\u093e\u0930". You make a mental note to ask Wally what that means later, much later. "What are you up to today?" \u000a"Oh you know, just getting ready for the coming apocalypse and grand holocaust of Our Oppressors." You laugh gaily at his funny joke. That Asok, such a kidder!\u000a"Well, I better let you get back to work," you say, feeling bettered for having spoken to the little brown ray of sunshine. But the day is yet long. The sounds of glam metal, moaning, and eventually snores emanate from Wally's Cube.\u000a[[Talk to Dilbert]]
+p831
+sg21
+VTalk to Asok
+p832
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I49
+I16
+I5
+I60
+I0
+tp833
+(dp834
+tp835
+Rp836
+sg29
+(lp837
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I49
+I3
+I5
+I60
+I0
+tp838
+(dp839
+tp840
+Rp841
+sbsa(dp842
+g12
+I00
+sg13
+(lp843
+F478.0
+aF1062.0
+asg15
+(itiddlywiki
+Tiddler
+p844
+(dp845
+g19
+V"Long day today, huh?"\u000a"Yeah always is"\u000a"I dont know how we keep our sanity working in a place like this"\u000a"Me either."\u000aYou keep talking to your double, who is sitting on your desk and also has the tail of a scorpion affixed to his thorax and has the blood of angels on his lips. The conversation waxes and it wanes, covering diverse topics and settings. Finally you find yourself, along with your double, perched a top a minaret far above Medina. Your double has transmorphed into a giant tabby cat, sitting upright. The blood of the angels has been replaced with lasagna, though the scorpion tail remains. \u000a"It is time for secrets to be revealed. My name is GAR. You are my Prophet, Dilbert. We must spread the Truth of Mercy, Cynicism, and Procrastination." Your double winds his tail around you tightly. Your arms are pinned to your side. "Taste of my Venomous Wit and feel the prick of my Ironic Stinger." Your double drives its tail into your upper arm. It burns at first but then begins to cool, and quickly the cool spreads over your entire body. "When you awake, my Servant, you will be prepared to spread the Word across the land.\u000aYou awake again far from Medina, your double nowhere to be found. Your arms still bound to your side, you know that His strength is with you. You rise to your feet, your voice bellowing through the small room, reverberating against the padding-covered walls. The small window in the door to your suite fills with panicked faces. The door swings open, the room crowded with white suits and people telling you to "calm down." How dare they tell you that in the face of your weeks corporate-sponsored stress management training. Suddenly your God appears above you, he stings your arm again and whispers, "My son, this is your great struggle. Apathy be with you, we will be reunited in Paradise." As the stinger pumps its venom of Wit and Irony into you again, your God fades into nothing, the face of a pudgy murse taking His Almighty place. "Just calm down, sir, everything will be okay once we get this lorazepam in your system."\u000aA familiar voice rings out. "NO YOU IDIOT! HE IS ALLERGIC TO LORAZEPAM USE THE AMOBARBITAL OR WE WILL LOSE ALL OF THE PROGRESS WE'VE MADE SO FAR." It is Pointy-Haired Boss. Suddenly everything makes sense to you. All the lies you've been told your entire life are clear in the Orange Glow of His Lordship. As you pass out of this world into the Paradise you now know for a certainty awaits you, one phrase sits precariously upon your lips.\u000a\u000a\u000a\u000a\u000a\u000aI hate mondays.\u000aTHE END
+p846
+sg21
+VTalk to Dilbert
+p847
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I49
+I53
+I5
+I60
+I0
+tp848
+(dp849
+tp850
+Rp851
+sg29
+(lp852
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I49
+I30
+I5
+I60
+I0
+tp853
+(dp854
+tp855
+Rp856
+sbsa(dp857
+g12
+I00
+sg13
+(lp858
+F664.0
+aF802.0
+asg15
+(itiddlywiki
+Tiddler
+p859
+(dp860
+g19
+VYou open up word and catch up on what you have so far. Pretty good, you decide. But you need something to spice it up a little bit. Make it stand out from the crowd, you know?\u000a\u000a"What the hell happened to you, bitch?" ICarly yelled.\u000aSam looked back at her and said "That's none of your fucking concern."\u000aICarly slapped her. "How dare you talk to me that way!"\u000a\u000aThe two stared at one another. Suddenly they were kissing and fucking.\u000a\u000aYou stare at the screen. This needs something, but what?\u000aWhat??\u000a[[Pirates]]\u000a[[Time Travel]]\u000a[[Wait for inspiration|Start]]
+p861
+sg21
+VFinish that fanfiction you've been putting off
+p862
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I53
+I14
+I5
+I60
+I0
+tp863
+(dp864
+tp865
+Rp866
+sg29
+(lp867
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I52
+I32
+I5
+I60
+I0
+tp868
+(dp869
+tp870
+Rp871
+sbsa(dp872
+g12
+I00
+sg13
+(lp873
+F781.0
+aF932.0
+asg15
+(itiddlywiki
+Tiddler
+p874
+(dp875
+g19
+V""What the hell happened to you, bitch?" ICarly yelled, swinging her Scimitar.\u000aSam yelled back from the Crow's Nest',' "That's none of your fucking concern!"\u000aICarly slapped her. "How dare you talk to me that way! We need to work together if we're going to beat these pirates and make it back home!"\u000a\u000aThe two stared at one another. Suddenly they were kissing and fucking on the Poop Deck."\u000a\u000a\u000a\u000aPerfect. This took a lot of research. But it's something you can be proud of, you decide. You submit the story.\u000a\u000aA scream rises from one of the cubicles. "WHO WROTE THIS?"\u000a\u000aWithout hesitation, you stand up. "I did it! I am the author of iPirates, the newest iCarly Fanfic!" You declare.\u000a\u000aA brick smashes you in the face. "You are ruining the internet!" Alice yells. "Everyone's already done pirates, you moron!"\u000a\u000a[img[Authorpirate.bmp]]\u000a\u000aAll around you, coworkers stand up and shout agreement. "She's right, you know!" "Yeah!" "Faggot!" "/b/tard scum!" They form a crowd and chase you down the hallway, forcing you to take shelter in your boss's office.\u000a"What's going on here?" he asks.\u000aYou try to hold the door shut against the force of your coworkers. "I-I-I-I messed up. I messed up big time."\u000aHis eyes widen and you cover your mouth. Oh God, it's obvious he heard it in your voice. He knows what you've done. You fall to the ground as the door flies open. The crowd tramples your unresisting body. That is, until the boss stops them.\u000a\u000a"What are we, savages? Attacking him like this is uncivilized! We need an execution we can be proud of! One that will strike fear in the hearts of people like him and stop this from happening again!" He leads you by your tie to the parking lot. You are silent as he ties each of your limbs to a different car.\u000a\u000a\u000a[img[Deathbycar.bmp]]\u000a\u000aThe owner of each respective car climbs in and starts it up. "Any last words?" asks Pointy Haired Boss, over the sound of the idling engine.\u000aYou pause to take a deep breath. "I regret only that I have but one life to give for my writing."\u000a\u000a\u000a\u000a\u000aThe cars proceed to pull you apart.
+p876
+sg21
+VPirates
+p877
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I55
+I9
+I5
+I60
+I0
+tp878
+(dp879
+tp880
+Rp881
+sg29
+(lp882
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I53
+I45
+I5
+I60
+I0
+tp883
+(dp884
+tp885
+Rp886
+sbsa(dp887
+g12
+I00
+sg13
+(lp888
+F781.0
+aF1072.0
+asg15
+(itiddlywiki
+Tiddler
+p889
+(dp890
+g19
+VCarly walked into her house. When she opened the door she saw Sam fucking another iCarly!\u000a"What the hell is going on, bitch?" iCarly yelled.\u000aSam wiped her mouth off, looked back at her, and said "That's none of your fucking concern."\u000aiCarly slapped her. "How dare you talk to me that way!"\u000a\u000aThe two stared at one another. Suddenly they were kissing and fucking.\u000aJust then, the door outside swung open. It was another iCarly!\u000a"What the hell is going on, bitch?" the other iCarly yelled.\u000aWhile Sam wiped her mouth off and responded, our iCarly smiled and tiptoed away into the time machine. Things suddenly made very, very good sense.\u000a\u000a\u000aPerfect. This took a lot of passion. But it's something you can be proud of, you decide. You submit the story.\u000aA scream rises from one of the cubicles. "WHO WROTE THIS?"\u000a\u000aWithout hesitation, you stand up. "I did it! I am the author of iParadox, the newest iCarly Fanfic!" You declare.\u000aA rose lands on your feet. "This is beautiful!" Alice cries. "I've never read anything more beautiful!"\u000a[img[Authortimetravel.bmp]]\u000a\u000aAll around you, coworkers stand up and shout agreement. "She's right, you know!" "Yeah!" "Incredible!" "Literary genius!" They form a crowd and parade you down the hallway, stopping at your boss's office. "What's going on here?" he asks. You smile knowingly. "I wrote it."\u000a\u000aHis eyes widen he clutches his heart. It's obvious he heard it in your voice. He knows what you've done. He falls to the ground with a thump.\u000a"Oh my goodness, he's had a heart attack!" You state uselessly.\u000aNobody does anything. You crane your head around.\u000a\u000a\u000a"Nobody's moving, it's as if time stopped..."\u000a"That's because it did."\u000aYou jump at the voice. Was that- "iCarly?" you ask, your voice full of disbelief.\u000a"The one and only," she winks.\u000a"What are you doing here?"\u000a\u000a[img[Ascend.bmp]]\u000a\u000a"I've come to take you with me. Your place isn't here among the common people. You're destined to live with me in Valhalla. This is your reward. Come with me."\u000a\u000a"But what about my plants?"\u000a\u000a[[Stay among the common folk. They need your writing here.|Live as a mortal]]
+p891
+sg21
+VTime Travel
+p892
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I57
+I25
+I5
+I60
+I0
+tp893
+(dp894
+tp895
+Rp896
+sg29
+(lp897
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I55
+I48
+I5
+I60
+I0
+tp898
+(dp899
+tp900
+Rp901
+sbsa(dp902
+g12
+I00
+sg13
+(lp903
+F758.0
+aF1202.0
+asg15
+(itiddlywiki
+Tiddler
+p904
+(dp905
+g19
+V"Fine," she says. "Have fun getting old and dying, I'm going back to eternal paradise."\u000aShe walks back into the light, and the rainbow bridge fades away.\u000a\u000aYou pick up your dead boss and cradle him in your arms. "I'm an idiot," you say to him.\u000a\u000aSuddenly you hear gasps and look up. Time has continued. "WHAT HAVE YOU DONE TO THE BOSS??" Alice shrieks.\u000a"He's gone mad! His work of art went to his head!"\u000a\u000a"It's a murder-suicide!"\u000a"He's pulling a Sylvia Plath! Grab him before he kills himself!"\u000a\u000aThey rush to grab you.\u000aYou run to your only escape, the window.\u000a[["Wally! Evasive Maneuver Delta Whiskey Tango!"]]\u000a[["So long faggots!"]]
+p906
+sg21
+VLive as a mortal
+p907
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I57
+I49
+I5
+I60
+I0
+tp908
+(dp909
+tp910
+Rp911
+sg29
+(lp912
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I57
+I31
+I5
+I60
+I0
+tp913
+(dp914
+tp915
+Rp916
+sbsa(dp917
+g12
+I00
+sg13
+(lp918
+F595.0
+aF1192.0
+asg15
+(itiddlywiki
+Tiddler
+p919
+(dp920
+g19
+VYou shout into a walkie-talkie and swing open the window.\u000aImmediately, doves fly into the building and surround you.\u000a\u000a"So long, faggots!" you yell.\u000aYou jump out the window, covered in birds. As you pass the second window, they naturally fly away, going to the nearest shiny object or crumb.\u000aYou plummet down the side of the building, realizing how fucking stupid you are.\u000a\u000aTHE END
+p921
+sg21
+V"Wally! Evasive Maneuver Delta Whiskey Tango!"
+p922
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I58
+I3
+I5
+I60
+I0
+tp923
+(dp924
+tp925
+Rp926
+sg29
+(lp927
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I58
+I1
+I5
+I60
+I0
+tp928
+(dp929
+tp930
+Rp931
+sbsa(dp932
+g12
+I00
+sg13
+(lp933
+F455.0
+aF1192.0
+asg15
+(itiddlywiki
+Tiddler
+p934
+(dp935
+g19
+VYou throw open the window and leap out face-first, laughing.\u000aOH WAIT FUCK\u000a\u000aAs you fall down the side of the building you realize how fucking stupid you are.\u000a\u000aTHE END
+p936
+sg21
+V"So long faggots!"
+p937
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I58
+I27
+I5
+I60
+I0
+tp938
+(dp939
+tp940
+Rp941
+sg29
+(lp942
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I58
+I18
+I5
+I60
+I0
+tp943
+(dp944
+tp945
+Rp946
+sbsa(dp947
+g12
+I00
+sg13
+(lp948
+F827.0
+aF700.0
+asg15
+(itiddlywiki
+Tiddler
+p949
+(dp950
+g19
+VYou stand up and peek naughtily over the cubicle wall. You see Wally watching internet pornography. You peek over the adjacent wall and see Alice stabbing her keyboard with a sharpened toothbrush. You peek over the last remaining wall and find Asok working. This makes your stomach turn a little.\u000a[[Talk to Wally]]\u000a[[Talk to Alice]]\u000a[[Talk to Asok]]\u000a[[Talk to Dilbert]]
+p951
+sg21
+VTalk to your cubicle neighbors
+p952
+sg23
+g24
+((I2014
+I3
+I1
+I15
+I59
+I18
+I5
+I60
+I0
+tp953
+(dp954
+tp955
+Rp956
+sg29
+(lp957
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I58
+I54
+I5
+I60
+I0
+tp958
+(dp959
+tp960
+Rp961
+sbsa(dp962
+g12
+I00
+sg13
+(lp963
+F944.0
+aF830.0
+asg15
+(itiddlywiki
+Tiddler
+p964
+(dp965
+g19
+V"Hey there Wal'!" you shout over the thin carpeted wall. A woman is writhing a top the hood of a car. A man who looks hauntingly like David Coverdale is lusting after her. \u000a"Shut up, Dilbert, or better yet give me a hand."\u000a\u000a[[OKAY]]\u000a[[EWWWWW]]\u000a[[EWWWW, OKAY]]
+p966
+sg21
+VTalk to Wally
+p967
+sg23
+g24
+((I2014
+I3
+I1
+I16
+I0
+I1
+I5
+I60
+I0
+tp968
+(dp969
+tp970
+Rp971
+sg29
+(lp972
+sg31
+g24
+((I2014
+I3
+I1
+I15
+I59
+I26
+I5
+I60
+I0
+tp973
+(dp974
+tp975
+Rp976
+sbsasS'scale'
+p977
+I1
+sS'snapping'
+p978
+I00
+ss.
